@@ -28,10 +28,9 @@ export default function Body() {
         <section className="mission-statement">
           <h2>Your Waste, Our Mission - Cleaner Streets, Greener Planet!</h2>
           <p>
-            Our platform is dedicated to handling your waste responsibly,
-            ensuring cleaner streets and contributing
+            Our platform is dedicated to handling your waste responsibly,ensuring cleaner streets and
           </p>
-          <p id="p">to a greener, healthier planet for everyone.</p>
+          <p id="p">contributing to a greener, healthier planet for everyone.</p>
         </section>
 
         <nav className="button">
