@@ -55,7 +55,7 @@
 
 .buttons-container {
   text-decoration: none;
-  padding: 80px;
+  padding: 60px;
   flex: 1;
   margin-right: 20px;
   display: flex;
@@ -113,6 +113,7 @@
 }
 
 .logo-container img {
+  margin-right: 100px;
   width: 100%;
   max-width: 600px;
   height: 500px;
