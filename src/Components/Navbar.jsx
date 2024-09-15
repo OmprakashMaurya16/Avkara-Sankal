@@ -1,11 +1,11 @@
-import React from 'react'
+import React from 'react';
 
 export default function Navbar() {
   return (
-    <div>
-       <div className="container">
-      <div className="left nav_items1">AVKARA SANKAL</div>
+    <nav className="navbar-container" role="navigation">
+      <div className="navbar-brand">
+        AVKARA SANKAL
       </div>
-    </div>
-  )
+    </nav>
+  );
 }

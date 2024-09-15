@@ -21,24 +21,24 @@ export default function Body() {
           </div>
 
           <div className="logo-container">
-            <img src="logo.png" alt="Avkara Sankal Logo" />
+            <img src="logo.png" alt="Logo of Avkara Sankal - Central Waste Management and Segregation" />
           </div>
         </div>
 
         <section className="mission-statement">
           <h2>Your Waste, Our Mission - Cleaner Streets, Greener Planet!</h2>
           <p>
-            Our platform is dedicated to handling your waste responsibly,ensuring cleaner streets and
+            Our platform is dedicated to handling your waste responsibly, ensuring cleaner streets and contributing
+            to a greener, healthier planet for everyone.
           </p>
-          <p id="p">contributing to a greener, healthier planet for everyone.</p>
         </section>
 
-        <nav className="button">
+        <div className="button">
           <button className="button1">ABOUT US</button>
           <button className="button1">LEADERBOARD</button>
           <button className="button1">ARTICLES</button>
           <button className="button1">FEEDBACKS</button>
-        </nav>
+        </div>
       </section>
     </main>
   );
